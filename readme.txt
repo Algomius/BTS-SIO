@@ -5,6 +5,8 @@
 I. Arithmétique :
 *------------------------*
 
+--> Révisions des notions principales en arithmétique : Arithmétique - Révision.pdf
+
 II. Suites :
 *------------------------*
 
