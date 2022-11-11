@@ -18,6 +18,8 @@ III. Calcul matriciel :
 IV. Logique
 *------------------------*
 
+--> Révisions des notions principales sur la logique : Logique - Révision.pdf
+
 V. Ensembles
 *------------------------*
 
