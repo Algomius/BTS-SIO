@@ -23,7 +23,7 @@ IV. Logique
 V. Ensembles
 *------------------------*
 
---> Révisions des notions principales sur la logique : Ensembles - Révision.pdf
+--> Révisions des notions principales sur la théorie des ensembles : Ensembles - Révision.pdf
 
 VI. Graphes
 *------------------------*
