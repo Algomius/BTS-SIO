@@ -28,5 +28,7 @@ V. Ensembles
 VI. Graphes
 *------------------------*
 
+--> Révisions des notions principales sur les graphes : Graphes - Révision.pdf
+
 VII. Algorithmie
 *------------------------*
