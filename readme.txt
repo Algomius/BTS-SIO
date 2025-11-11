@@ -30,5 +30,7 @@ VI. Graphes
 
 --> Révisions des notions principales sur les graphes : Graphes - Révision.pdf
 
-VII. Algorithmie
+VII. Annales BTS SIO
 *------------------------*
+
+--> Correction des sujets d'annales des dernières sessions pour le BTS SIO
